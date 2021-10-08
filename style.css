@@ -1,0 +1,50 @@
+* {
+    border: thin solid black;
+}
+
+
+.pblack {background-color: grey;
+  color: black
+}
+
+  .colorazul
+  {font-size: 2em;
+  color: pblack;
+border: thin solid black;
+}
+.pyellow {background-color: yellow;
+  color: black
+}
+
+.pblue {background-color: blue;
+  color: black
+}
+
+
+#main-banner > h1 {
+  padding:: 1em;
+  padding-bottom: 0;
+  color: black;
+  background-image: url();
+}
+
+#main-banner > p
+{
+  border: thin solid re;
+  background-color: rgb(255, 0, 0);
+
+}
+
+#main-banner >span > a {
+  color: lightgrey;
+  padding: : 1em;
+  padding-left: 2em;
+
+}
+
+
+/
+.pred {
+background-color: red;
+color: rgb(rgba(255, 0, 0, 0.5);, 0, 0);
+}
